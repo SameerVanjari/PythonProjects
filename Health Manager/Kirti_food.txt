@@ -1,0 +1,2 @@
+This is a Food log for Kirti
+['2020-08-02 21:13:56.803719']:chicken burger
