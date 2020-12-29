@@ -1,0 +1,16 @@
+*Self-Assistant* 
+
+THis is a small scale project, an attempt to learn different librarys in the python and how ttheir application works.
+Following are the functions used:
+1. Wish according to time 
+2. Uses speech recognition 
+3. searches the wikipedia for information 
+4. opens notepad and takes note 
+5. opens YouTube
+6. pplays music 
+
+All this is done by voice commands, so the commands are 
+1. Wikipedia " "(Information) - searches wiki for info
+2. Open youtube - opens YouTube in browser 
+3. play music - to play music from the given folder 
+4. take note - opens and takes note in notepad
